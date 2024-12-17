@@ -1,0 +1,20 @@
+﻿  CCircleMathDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,28): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,24): warning C4309: инициализация: усечение константного значения
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CCircleMathDecorator.cpp(11,41): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CCircleMathDecorator.cpp(24,26): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  CTriangleMathDecorator.cpp
+  DrawShapes.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,28): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,24): warning C4309: инициализация: усечение константного значения
+  Handler.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,28): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,24): warning C4309: инициализация: усечение константного значения
+  MathVisitor.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,28): warning C4305: инициализация: усечение из "int" в "char"
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Const.h(8,24): warning C4309: инициализация: усечение константного значения
+  RectangleCreator.cpp
+  Visitor.cpp
+  Создание кода...
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CTriangleMathDecorator.cpp(13): warning C4715: CTriangleMathDecorator::GetArea: значение возвращается не при всех путях выполнения
+  DrawShapes.vcxproj -> C:\Users\user\Desktop\projects\OOD\DrawShapes\x64\Debug\DrawShapes.exe

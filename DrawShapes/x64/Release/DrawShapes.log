@@ -1,0 +1,34 @@
+﻿  CCircle.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CCircleDrawDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CCircleMathDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CircleCreator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CRectangle.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CRectangleDrawDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CRectangleMathDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CShapeDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CTriangle.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CTriangleDrawDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  CTriangleMathDecorator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  DrawShapes.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Handler.h(7,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Handler.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\Handler.h(7,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  MathVisitor.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  RectangleCreator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  TriangleCreator.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Visitor.cpp
+C:\Users\user\Desktop\projects\OOD\DrawShapes\DrawShapes\CShape.h(6,10): fatal  error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
